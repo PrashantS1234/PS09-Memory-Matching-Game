@@ -1,0 +1,8 @@
+{
+  "name": "ps09-memory-matching-game",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test"},
+  "description": "Basic JavaScript memory matching game for PS09"
+}
