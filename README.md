@@ -1,6 +1,6 @@
 # PS09 — Memory Matching Game
 
-A small browser-based memory game built with HTML, CSS, and vanilla JavaScript. The player reveals two cards at a time and tries to find all eight pairs.
+A browser-based memory game built with HTML, CSS, and vanilla JavaScript. The player reveals two cards at a time and tries to find all eight pairs.
 
 ## Included features
 - A 4×4 board with eight matching pairs
@@ -31,6 +31,3 @@ npm.cmd test
 - `src/game.js` — card deck creation and time formatting
 - `src/main.js` — game interactions
 - `tests/game.test.js` — basic automated tests
-
-## Scope and limitations
-This is a basic prototype. It does not include adaptive difficulty, saved game history, user accounts, a backend, or deployment to Azure. The project should be presented accurately, and any AI assistance should be disclosed if required by the assessment rules.
